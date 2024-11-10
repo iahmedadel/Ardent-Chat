@@ -1,5 +1,5 @@
 # Ardent_Chat
-• Developed a cross-platform chat app for iOS and Android using Flutter.
+• Developed a cross-platform chat app for iOS and Android using Flutter.                                                                         
 • Integrated Firebase Authentication, Firestore for real-time messaging, and Firebase Cloud Storage for handling media files
 (text, images).
 • Implemented a theme switcher for Dark and Light modes, enhancing the user experience.
