@@ -1,16 +1,10 @@
-# ardent_chat
+# Ardent_Chat
+• Developed a cross-platform chat app for iOS and Android using Flutter.
+• Integrated Firebase Authentication, Firestore for real-time messaging, and Firebase Cloud Storage for handling media files
+(text, images).
+• Implemented a theme switcher for Dark and Light modes, enhancing the user experience.
+• Managed the app's state efficiently using Cubit.
+• Focused on a responsive user interface with custom chat bubble designs for sent and received messages..
+• Used Hive for offline data storage, enabling efficient and lightweight local caching of messagesand user preferences.
 
-A new Flutter project.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
